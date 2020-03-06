@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi,everyone.
+
+So,started learning Git today with the first repository called "hello-world"
